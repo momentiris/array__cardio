@@ -1,0 +1,10 @@
+body {
+  width: 100vw;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+}
